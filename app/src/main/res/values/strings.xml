@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">seek Help2.0</string>
+    <string name="username">Username</string>
+    <string name="email_address">EMAIL ADDRESS</string>
+    <string name="password">PASSWORD</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="phone_number">PHONE NUMBER</string>
+    <string name="log_in">Log In</string>
+    <string name="new_compliant">new compliant</string>
+    <string name="my_compliants">my compliants</string>
+    <string name="my_profile">my profile</string>
+    <string name="sign_out">sign out</string>
+    <string name="name">NAME</string>
+    <string name="login">LOGGEDIN</string>
+
+</resources>

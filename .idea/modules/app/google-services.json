@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1099010170013",
+    "firebase_url": "https://seek-help2.firebaseio.com",
+    "project_id": "seek-help2",
+    "storage_bucket": "seek-help2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099010170013:android:a61b43c49d14329a778874",
+        "android_client_info": {
+          "package_name": "com.gs.seekhelp20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099010170013-upuarriji9agfsngq507ovffl16cbisp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gs.seekhelp20",
+            "certificate_hash": "226710b93c20d178ad89b1e76e3654823504bf73"
+          }
+        },
+        {
+          "client_id": "1099010170013-9c6im1l1dceetdvhmv0t0euidio89sbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz98yC8ljswjJhfez5Z3X05lX770GN8wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1099010170013-9c6im1l1dceetdvhmv0t0euidio89sbu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

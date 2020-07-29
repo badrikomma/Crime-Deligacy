@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.gs.seekhelp20">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".Hospital"
+            android:label="HOSPITAL DEPARTMENT" />
+        <activity android:name=".Fire"
+            android:label="FIRE DEPARTMENT"/>
+        <activity android:name=".Admin"
+            android:label="ADMIN PANEL"/>
+        <activity android:name=".MyCompliants"
+            android:label="MY COMPLIANTS"/>
+        <activity
+            android:name=".crime"
+            android:label="CRIME DEPARTMENT" />
+        <activity
+            android:name=".NewCompliant"
+            android:label="REPORT" />
+        <activity
+            android:name=".MyProfile"
+            android:label="MY PROFILE" />
+        <activity
+            android:name=".Victim"
+            android:label="USER DASHBOARD" />
+        <activity
+            android:name=".Signup"
+            android:label="SIGN UP" />
+        <activity
+            android:name=".splash"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:label="LOG IN" />
+    </application>
+
+</manifest>
